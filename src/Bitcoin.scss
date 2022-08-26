@@ -1,0 +1,27 @@
+.bitcoin {
+    background-color: black;
+    color: white;
+    border-style: dashed;
+    border-color: red
+    
+
+}
+.activite {
+    width: 300px;
+    height: 300px;
+    // flex:1 1 320px;
+    border:1px solid #ccc;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    color:royalblue ;
+    background-color: yellow;
+    font-family: 'Courier New', Courier, monospace;
+}
+.personne-image {
+    flex:1;
+}
+
+.personne-nom {
+    flex:2;
+}
